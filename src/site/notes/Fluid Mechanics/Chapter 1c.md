@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fluid-mechanics/chapter-1c/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/fluid-mechanics/chapter-1c/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 ##  What  is fluid mechanics?
