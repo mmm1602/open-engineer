@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["obsidian/homepage","engineering","index"],"noteIcon":"","dg-note-properties":{"tags":["obsidian/homepage","engineering","index"],"type":"dashboard","status":"active"}}
+{"dg-publish":true,"permalink":"/home/","tags":["obsidian/homepage","engineering","index","gardenEntry"],"noteIcon":"","dg-note-properties":{"tags":["obsidian/homepage","engineering","index","gardenEntry"],"type":"dashboard","status":"active"}}
 ---
 
 

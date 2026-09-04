@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fluid-mechanics/introduction/","tags":["physics","fluid-mechanics","coursework","gardenEntry"],"noteIcon":"","dg-note-properties":{"tags":["physics","fluid-mechanics","coursework","gardenEntry"],"type":"lecture-note","status":"active"}}
+{"dg-publish":true,"permalink":"/fluid-mechanics/introduction/","tags":["physics","fluid-mechanics","coursework"],"noteIcon":"","dg-note-properties":{"tags":["physics","fluid-mechanics","coursework"],"type":"lecture-note","status":"active"}}
 ---
 
 
